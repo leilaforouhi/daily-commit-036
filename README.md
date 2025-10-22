@@ -1,5 +1,4 @@
-import time
-
+import tim
 def stopwatch(duration=3):
     print("🕐 Stopwatch started...")
     start = time.time()
